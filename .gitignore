@@ -1,0 +1,4 @@
+venv/
+textures/
+*.txd
+*.dff
